@@ -1,0 +1,5 @@
+sleep
+eat
+talk
+drink
+play
